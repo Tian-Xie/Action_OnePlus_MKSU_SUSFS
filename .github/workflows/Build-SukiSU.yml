@@ -58,6 +58,7 @@ on:
           - kalama
           - pineapple
           - sun
+          - canoe
       ANDROID_VERSION:
         type: choice
         description: "内核安卓版本"
